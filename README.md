@@ -20,7 +20,7 @@ The main goal of this project is to demonstrate the ability to:
 ---
 
 ## 👥 Team Members
-* **Mohamed**
+* **Mohamed** [GitHub](https://github.com/mohammad-abu-haded)
 * **Omar**
 * **Zuhair**
 * **Husam** (Me)
